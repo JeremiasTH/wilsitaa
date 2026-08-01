@@ -1,0 +1,1 @@
+setTimeout(()=>{document.getElementById('msg').style.opacity=1;document.getElementById('msg').textContent='Al igual que un girasol busca la luz, espero que siempre encuentres motivos para sonreír. 🌻 Hecho con cariño para Wilmelly.';},5000);
